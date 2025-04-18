@@ -139,7 +139,10 @@ wwwroot\assets\css\main.css
 wwwroot\assets\img\apple-touch-icon.png
 wwwroot\assets\img\favicon.png
 wwwroot\assets\img\hero-bg.jpg
+wwwroot\assets\img\masonry-portfolio\library-management.jpg
 wwwroot\assets\img\masonry-portfolio\masonry-portfolio-1.jpg
+wwwroot\assets\img\masonry-portfolio\masonry-portfolio-10.jpg
+wwwroot\assets\img\masonry-portfolio\masonry-portfolio-11.jpg
 wwwroot\assets\img\masonry-portfolio\masonry-portfolio-2.jpg
 wwwroot\assets\img\masonry-portfolio\masonry-portfolio-3.jpg
 wwwroot\assets\img\masonry-portfolio\masonry-portfolio-4.jpg
